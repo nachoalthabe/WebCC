@@ -1,0 +1,16 @@
+[10-Nov-2014 20:24:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/index.php on line 1
+[02-Mar-2015 18:14:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/404.php on line 1
+[24-Aug-2015 23:19:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/index.php on line 1
+[20-Sep-2015 13:05:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function __() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/comments.php on line 3
+[06-Feb-2016 23:39:25 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/index.php on line 1
+[01-Mar-2016 05:11:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function language_attributes() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/header.php on line 2
+[01-Mar-2016 05:11:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_template_part() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/functions.php on line 2
+[01-Mar-2016 05:11:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function dynamic_sidebar() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/footer.php on line 5
+[01-Mar-2016 05:11:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/404.php on line 1
+[01-Mar-2016 05:11:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/404.php on line 1
+[13-Mar-2016 05:33:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_template_part() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/functions.php on line 2
+[13-Mar-2016 05:33:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/404.php on line 1
+[13-Mar-2016 05:33:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function dynamic_sidebar() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/footer.php on line 5
+[03-Apr-2016 01:57:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/index.php on line 1
+[23-May-2016 01:00:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/404.php on line 1
+[15-Jun-2016 14:52:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/concept6/public_html/wp-content/themes/wp_acoustic_11/404.php on line 1

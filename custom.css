@@ -1,0 +1,46 @@
+.cc_artistasThumb>div{overflow:hidden;}.cc_artistasThumb>div>a{display:block;width:100%;height:180px;position:relative;background-repeat:no-repeat;background-position:center;background-size:100% auto;margin-bottom:10px;}
+.cc_artistasThumb>div .album-info h4{font-size:18px;}
+li.cc_listWidget{display:table;width:100%;}li.cc_listWidget>div{display:table-cell;vertical-align:middle;float:none;}li.cc_listWidget>div.artist-photo{background-color:#353535;}li.cc_listWidget>div.artist-photo a{height:85px;width:85px;display:block;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;background-repeat:no-repeat;background-position:center center;}
+li.cc_listWidget>div.artist-info{width:auto;padding:0;}li.cc_listWidget>div.artist-info a{padding:7px 10px 3px;border-radius:0 5px 5px 0;-moz-border-radius:0 5px 5px 0;display:block;background-color:rgba(255, 255, 255, 0.8);border:none;}li.cc_listWidget>div.artist-info a h4{margin-bottom:2px;}
+li.cc_listWidget>div.artist-info a p{margin:0 auto 5px 0;}
+.widget_cc_eventos .widget-content,.widget_cc_artista .widget-content,.widget_cc_current_artis_media .widget-content,.widget_cc_discos .widget-content{background:none;}
+.widget-title{color:#FFF!important;}
+time .month{text-transform:uppercase;}
+.post-meta time .month{text-transform:capitalize;}
+.post-date{border:none;}
+img.sinMargen{margin:0!important;}
+.ccEvent{display:table;width:100%;}.ccEvent>*{display:table-cell;vertical-align:middle;float:none;}
+.ccEvent>time{height:85px;width:85px;background-size:cover;text-align:center;padding:0px;}.ccEvent>time>span{background-color:rgba(0, 0, 0, 0.5);font-weight:bold;display:inline-block;padding:0px!important;color:#FFF!important;}.ccEvent>time>span.day{font-size:45px;}
+.ccEvent>time>span.month{font-size:12px;display:block;}
+.ccEvent>div{padding:0;}.ccEvent>div>div{padding:7px 10px 4px;border-radius:0 5px 5px 0;-moz-border-radius:0 5px 5px 0;background-color:rgba(255, 255, 255, 0.8);}
+.ccEvent>div.event-info h4{margin-bottom:2px;}
+.ccEvent>div.event-info p{margin:0 auto 5px 0;}
+a.mapBtn{margin-top:0!important;text-align:right;padding:5px!important;background-color:#C8C8C8!important;float:right;}a.mapBtn:hover{color:#FFF!important;background-color:#666!important;}
+a.mapBtn.error{font-weight:bolder;color:#FFF!important;background-color:rgba(255, 0, 0, 0.5) !important;}a.mapBtn.error:hover{color:#FFF!important;background-color:#F00!important;}
+a.mapBtn.success{color:#000!important;background-color:rgba(0, 255, 0, 0.5) !important;}a.mapBtn.success:hover{color:#000!important;background-color:rgba(0, 255, 0, 0.8) !important;}
+.post-featured .mapContainer{width:100%;height:300px;display:block;}
+.widget-lugares{margin-bottom:0;}.widget-lugares .mapContainer{width:100%;height:200px;display:block;}
+.widget-lugares .artist-info{display:block;}.widget-lugares .artist-info a{border-radius:0!important;}
+.ccPost .post-featured i{width:100%;display:block;height:300px;background-repeat:no-repeat;background-position:center center;background-size:cover;}
+.ccMedia>div{background-position:90% 96%;background-repeat:no-repeat;}.ccMedia>div.media-block{padding:10px;}.ccMedia>div.media-block>a{height:185px;width:100%;display:block;-webkit-background-size:contain;-moz-background-size:contain;-o-background-size:contain;background-size:contain;background-repeat:no-repeat;background-position:center center;}
+.ccMedia>div.media-block .media-block-details{padding:10px 0 0 0;}
+.ccMedia .type-videos,.ccMedia .type-videos a.postType{background-image:url(images/icon_video.png);}.ccMedia .type-videos .media-act,.ccMedia .type-videos a.postType .media-act,.ccMedia .type-videos:hover,.ccMedia .type-videos a.postType:hover{background:url(images/icon_play.png) no-repeat 50% 50%;}
+.ccMedia .type-galerias,.ccMedia .type-galerias a.postType{background-image:url(images/icon_photo.png);}.ccMedia .type-galerias .media-act,.ccMedia .type-galerias a.postType .media-act,.ccMedia .type-galerias:hover,.ccMedia .type-galerias a.postType:hover{background:url(images/icon_zoom.png) no-repeat 50% 50%;}
+.ccMedia .type-temas,.ccMedia .type-discos,.ccMedia .type-temas a.postType,.ccMedia .type-discos a.postType{background-image:url(images/icon_cassette.png);}.ccMedia .type-temas .media-act,.ccMedia .type-discos .media-act,.ccMedia .type-temas a.postType .media-act,.ccMedia .type-discos a.postType .media-act{background:url(images/icon_play.png) no-repeat 50% 50%;}
+a{border:none!important;}ahover{border:none!important;}
+.contet a{border:none;}.contet ahover{border:none;}
+.cc_listWidget .postType{background-position:right center;-webkit-background-size:contain;-moz-background-size:contain;-o-background-size:contain;background-size:contain;background-repeat:no-repeat;background-position:95% 0;}
+.ccBoxPost>div>a{-webkit-background-size:contain;-moz-background-size:contain;-o-background-size:contain;background-size:contain;background-repeat:no-repeat;background-position:center center;width:100%;height:200px;display:block;}
+.ccBoxPost>div>.album-info>a>h4{margin:10px 0 0 0;}
+.ccBoxPost>div>.album-info>a>p{margin:5px 0 0 0;}
+.content-single{margin-top:0;}
+body{background-color:#000;padding:0;}
+.logo-container{text-align:right;}
+.socials-top{height:100%;top:0;}.socials-top .widget_ci_social_widget{float:left;background-color:#FFF;padding:5px 5px 5px;border-radius:0 0 5px 5px;position:relative;}.socials-top .widget_ci_social_widget>div{position:relative;margin:auto;}.socials-top .widget_ci_social_widget>div h3{position:absolute;text-align:center;font-size:18px;background-color:#333;font-weight:lighter;padding:5px 10px;display:block;border-radius:0 0 5px 5px;margin-top:5px;color:#999!important;}
+.header{background-repeat:no-repeat;background-position:center;}
+.navigation{margin-top:0px;}
+.cabecera{overflow:hidden;background-size:contain;background-repeat:no-repeat;background-position:center;height:250px;}
+#menu-acoustic li a{font-size:15px;padding:10px;text-transform:uppercase;}
+.logo-container h1{display:inline-block;position:relative;top:-35px;margin-right:15px;color:#FFF;}.logo-container h1 a{display:inline-block;}
+#godlabcc{display:block;width:20%;height:auto;float:right;margin-top:10px;}
+.footer-wrap,.breadcrumb h3{background-image:url(images/bg_footer.png);background-position:0 center;background-size:cover;background-repeat:no-repeat;}

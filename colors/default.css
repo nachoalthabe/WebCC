@@ -1,0 +1,53 @@
+/* GLOBAL: #Basic Styles
+================================================== */
+body { 
+	/*background: #ffcc00; */
+	background: #000000; 
+}
+
+/* GLOBAL: #Links
+================================================== */
+a, a:hover, a:visited { color:#ffffff; }
+.content a { border-bottom:solid 1px #ffcc00; }
+.content a:hover { border-bottom:solid 1px #353535; }
+
+/* GLOBAL: #Buttons
+================================================== */
+.btn, .btn-reply, .comment-reply-link { color:#003333; background:#00ccff; }
+.btn:hover, .btn-reply:hover, .comment-reply-link:hover { background: rgba(0,0,0,0.7); color:rgb(255,255,255); }
+
+/* GLOBAL: #Forms
+================================================== */
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea { border-radius:0; }
+button, html input[type="button"], input[type="reset"], input[type="submit"] { color:#003333; background:#00ccff; }
+button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: rgba(0,0,0,0.7); color:rgb(255,255,255); }
+
+
+/* MODULE: #Main navigation
+================================================== */
+.sf-menu a:hover, .current-menu-item a { background: #353535; color:#fff!important; }
+
+
+/* MODULE: #Slider
+================================================== */
+.flex-control-paging li a.flex-active { background: #000; background: #353535; }
+
+
+/* MODULE: #Post
+================================================== */
+.post-date { background: #353535; color:#fff; border-bottom:solid 5px #ffcc00; }
+
+
+/* GLOBAL: #Footer
+================================================== */
+.footer a { color:#ffcc00; }
